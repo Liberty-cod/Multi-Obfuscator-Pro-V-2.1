@@ -4,6 +4,8 @@ python
 power shell
 .net etc
 
+language: Russian
+
 Version Python 3.13
 
 gratitude for me and for inspiration 
